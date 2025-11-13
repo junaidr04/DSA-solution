@@ -42,21 +42,4 @@ Backtracking – N-Queens, subsets, permutations, and constraint satisfaction pr
 
 Bit Manipulation – XOR, AND, OR tricks, subset generation with bits, single number problems.
 
-
-💡 How to Use
-
-Browse the folders according to the topic you want to practice.
-Each file contains a solution to a specific LeetCode problem.
-Problems are solved in C++ 
-You can run the code locally to test your own test cases.
-
-🏆 Goals
-
-Master data structures and algorithms required for software engineering interviews.
-Learn problem-solving patterns like sliding window, recursion, DFS, BFS, etc.
-Prepare for Google, Microsoft, Amazon, and other tech company interviews.
-
-
-Code is meant for learning and practice purposes.
-
 Each solution contains comments explaining the logic and approach
